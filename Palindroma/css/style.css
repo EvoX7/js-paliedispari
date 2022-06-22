@@ -1,0 +1,20 @@
+
+body {
+    background-color: bisque;
+}
+
+.my_container {
+    margin-top: 50px;
+    background-color: rgb(255, 187, 104);
+    height: 40vh;
+    border-radius: 10px 20px 30px 40px/30px; 
+}
+
+h1 {
+    font-size: 60px;
+
+}
+
+h2 {
+    font-size: 40px;
+}

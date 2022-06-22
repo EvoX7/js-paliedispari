@@ -17,13 +17,16 @@ document.getElementById("computer-number").innerHTML = "Computer number is" + " 
 const NumberSum = userNumber + computerGen;
 
 // * Checking Even/Odd
-function isEven(userNumber) {
-  if (userNumber % 2 === 0) return true;
+function isEven(userNumber, computerGen) {
+  if (userNumber, computerGen % 2 === 0) return true;
   else return false;
 }
 
-// ! Showing Even/Odd result
 
+
+
+
+// ! Showing Even/Odd result
 const EvenOddResult = isEven(NumberSum);
 console.log(EvenOddResult);
 document.getElementById("even-odd").innerHTML = "Sum is:" + " " + NumberSum + " " + EvenOddResult;
