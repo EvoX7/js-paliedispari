@@ -1,0 +1,26 @@
+.my_container {
+    background-color: rgb(99, 86, 245);
+    height: 40vh;
+    border-radius: 20px;
+  }
+  
+  h1 {
+    color: rgb(255, 204, 110);
+    font-size: 100px;
+  }
+  
+  #user-number {
+    color: wheat;
+    font-size: 30px;
+  }
+  
+  #computer-number {
+    color: rgb(22, 232, 221);
+    font-size: 30px;
+  }
+  
+  #even-odd {
+    color: rgb(173, 232, 22);
+    font-size: 30px;
+  }
+  
